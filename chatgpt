@@ -1,2 +1,7 @@
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,bing.com
+DOMAIN-KEYWORD,openai
+DOMAIN,challenges.cloudflare.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,ai.com
+DOMAIN-SUFFIX,stripe.com
